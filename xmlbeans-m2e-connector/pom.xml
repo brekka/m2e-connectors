@@ -22,6 +22,7 @@
 
     <groupId>org.bitstrings.eclipse.m2e.connectors.xmlbeans</groupId>
     <artifactId>xmlbeans-m2e-connectors-parent</artifactId>
+    <version>4.0.0.brekka1</version>
 
     <name>m2e :: Connectors :: XmlBeans :: Parent</name>
 

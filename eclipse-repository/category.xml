@@ -31,9 +31,9 @@
     </feature>
 
     <feature
-            url="features/org.bitstrings.eclipse.m2e.connectors.xmlbeans_4.0.0.qualifier.jar"
+            url="features/org.bitstrings.eclipse.m2e.connectors.xmlbeans_4.0.0.brekka1.jar"
             id="org.bitstrings.eclipse.m2e.connectors.xmlbeans.feature"
-            version="4.0.0.qualifier">
+            version="4.0.0.brekka1">
         <category name="org.bitstrings.eclipse.m2e.connectors"/>
     </feature>
 

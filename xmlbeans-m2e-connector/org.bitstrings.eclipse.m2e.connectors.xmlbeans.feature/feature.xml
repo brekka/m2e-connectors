@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--
 
     Copyright (c) 2011 bitstrings.org - Pino Silvaggio
@@ -13,19 +12,19 @@
 <feature
       id="org.bitstrings.eclipse.m2e.connectors.xmlbeans.feature"
       label="m2e connector for xmlbeans"
-      version="4.0.0.qualifier"
+      version="4.0.0.brekka1"
       provider-name="bitstrings.org">
 
    <description url="">
-m2e connector for xmlbeans
+      m2e connector for xmlbeans
    </description>
 
    <copyright>
-Copyright (c) bitstrings.org - Pino Silvaggio
+      Copyright (c) bitstrings.org - Pino Silvaggio
    </copyright>
 
    <license url="http://www.eclipse.org/legal/epl-v10.html">
-Copyright (c) bitstrings.org - Pino Silvaggio
+      Copyright (c) bitstrings.org - Pino Silvaggio
 
 All rights reserved. This program and the accompanying materials
 are made available under the terms of the Eclipse Public License
