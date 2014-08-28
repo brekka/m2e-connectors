@@ -17,7 +17,7 @@
     <parent>
         <groupId>org.bitstrings.eclipse.m2e.connectors.xmlbeans</groupId>
         <artifactId>xmlbeans-m2e-connectors-parent</artifactId>
-        <version>4.0.0.brekka1</version>
+        <version>4.0.0.brekka2</version>
     </parent>
 
     <artifactId>org.bitstrings.eclipse.m2e.connectors.xmlbeans</artifactId>

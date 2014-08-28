@@ -41,9 +41,8 @@ public class XmlBeansBuildParticipant extends MojoExecutionBuildParticipant {
         final MavenSession mavenSession = getSession();
         final MojoExecution mojoExecution = getMojoExecution();
 
-        if (Arrays.asList(
-                BuildHelper.getModifiedFiles(mavenSession, mojoExecution, maven, buildContext, "schemaDirectory"))
-                .isEmpty()) {
+        String[] modifiedFiles = BuildHelper.getModifiedFiles(mavenSession, mojoExecution, maven, buildContext, "schemaDirectory");
+        if (modifiedFiles == null || modifiedFiles.length == 0) {
             return null;
         }
 
