@@ -12,7 +12,7 @@
 <feature
       id="org.bitstrings.eclipse.m2e.connectors.xmlbeans.feature"
       label="m2e connector for xmlbeans"
-      version="4.0.0.brekka1"
+      version="4.0.0.brekka2"
       provider-name="bitstrings.org">
 
    <description url="">

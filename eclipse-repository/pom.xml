@@ -21,7 +21,7 @@
     </parent>
 
     <artifactId>eclipse-repository</artifactId>
-    <version>4.0.0.brekka1</version>
+    <version>4.0.0.brekka2</version>
 
     <packaging>eclipse-repository</packaging>
 
